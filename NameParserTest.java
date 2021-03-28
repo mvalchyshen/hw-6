@@ -1,4 +1,4 @@
-pubclic class NameParser {
+public class NameParser {
     public String parse(String[] names) {
         StringBuilder sb = new StringBuilder();
 
@@ -16,7 +16,7 @@ pubclic class NameParser {
     }
 }
 
-publci class NameParserTest {
+public class NameParserTest {
     public static void main(String[] args) {
         String[] names = {"John Doe", "Bill Mask", "Nigua Joshua"};
 
