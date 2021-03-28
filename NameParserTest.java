@@ -16,7 +16,7 @@ class NameParser {
     }
 }
 
-class NameParserTest {
+publci class NameParserTest {
     public static void main(String[] args) {
         String[] names = {"John Doe", "Bill Mask", "Nigua Joshua"};
 
