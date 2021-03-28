@@ -1,4 +1,4 @@
-class NameParser {
+pubclic class NameParser {
     public String parse(String[] names) {
         StringBuilder sb = new StringBuilder();
 
